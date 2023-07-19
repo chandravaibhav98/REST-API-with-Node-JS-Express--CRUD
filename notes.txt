@@ -3,3 +3,10 @@ https://www.youtube.com/watch?v=l8WPWK9mS5M&t=540s
 49:11
 
 Create / Read / Update / Delete
+
+
+{
+	"firstName": "Emily",
+	"lastName": "Tess",
+	"age": 26
+}
