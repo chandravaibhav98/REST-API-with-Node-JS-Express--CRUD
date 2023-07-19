@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=l8WPWK9mS5M&t=540s
 
+https://github.com/adrianhajdin/node_express_crud_api/tree/master
+
 49:11
 
 Create / Read / Update / Delete
